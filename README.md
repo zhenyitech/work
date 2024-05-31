@@ -1,3 +1,8 @@
+# 初始化服务器
+
+`curl -s https://prod.zhenyi.tech/res/epark/setup/epark.sh | sudo bash`
+
+
 # 【蓁奕科技】开发规范
 
 ### UAT服务器地址
