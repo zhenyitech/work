@@ -69,7 +69,7 @@ curl -SL https://prod.zhenyi.tech/res/epark/setup/docker-compose-linux-x86_64 -o
 chmod 777 /usr/local/bin/docker-compose
 
 
-# sudo yum install git -y 
+sudo yum install git -y 
 # sudo yum install nginx -y 
 # sudo cp -rf app.conf /etc/nginx/conf.d/app.conf 
 # sudo cp -rf nginx /etc/init.d/nginx
@@ -82,7 +82,7 @@ curl -s https://install.zerotier.com | sudo bash
 
 sudo systemctl start zerotier-one.service
 # sudo zerotier-cli join e26ff13e3543a975
-sudo zerotier-cli join e26ff13e35bdab92
+# sudo zerotier-cli join e26ff13e35bdab92
 
 
 
@@ -90,9 +90,6 @@ sudo zerotier-cli join e26ff13e35bdab92
 # rpm -ivh https://repo.mysql.com//mysql57-community-release-el7-11.noarch.rpm
 # yum install mysql-community-client.x86_64 -y
 
-echo '====================================='
-echo 'INSTALL EPARK-SYSTEM'
-echo '====================================='
-curl -s https://prod.zhenyi.tech/res/epark/setup/epark.sh | sudo bash
+
 
  
