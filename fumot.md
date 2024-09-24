@@ -14,4 +14,4 @@
 ## 客户端
 ## 总后台
 
-[!img](https://s1.locimg.com/2024/09/24/3e1e355c6af11.png)
+![img](https://s1.locimg.com/2024/09/24/3e1e355c6af11.png)
