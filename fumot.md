@@ -1,4 +1,4 @@
-# FUMOT海外商城方案
+![image](https://github.com/user-attachments/assets/8a335132-a56e-4971-8ddc-b94bca9226ff)# FUMOT海外商城方案
 
 ## 产品概述
 
@@ -32,7 +32,9 @@
 ![1727149674099.png](https://s1.locimg.com/2024/09/24/73a8ddc6f1c48.png)
 
 
-##### ![1727150049623.png](https://s1.locimg.com/2024/09/24/8db8cc84a91ae.png)
+##### 业务员
+
+![1727156925108.png](https://s1.locimg.com/2024/09/24/6aedaab80e161.png)
 
 业务员参与收集商品的基本信息.如品类,销量,售价.
 
